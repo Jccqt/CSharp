@@ -1,2 +1,2 @@
-# LeetCode_Problems
-A repository for compilation of Leet code problems
+# CSharp
+A compilation of Leet code problems for C#
