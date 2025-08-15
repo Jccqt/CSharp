@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Folder Include="Tests\" />
+    <None Include="..\README.md" Link="docs/README.md" />
   </ItemGroup>
 
 </Project>
