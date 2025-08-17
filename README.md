@@ -8,4 +8,5 @@ A compilation of Leet code problems for C#
     * [Contains Duplicate](./CSharp/Problems/Arrays_and_Hashing/ContainsDuplicate.cs)
     * [Is Anagram](./CSharp/Problems/Arrays_and_Hashing/IsAnagram.cs)
     * [Is Valid Sudoku](./CSharp/Problems/Arrays_and_Hashing/IsValidSudoku.cs)
+    * [Products of Array Except Self](./CSharp/Problems/Arrays_and_Hashing/ProductExceptSelf.cs)
   * [Two Sum](./CSharp/Problems/TwoSum.cs)
