@@ -12,3 +12,5 @@ A compilation of Leet code problems for C#
     * [Two Sum](./CSharp/Problems/Arrays_and_Hashing/TwoSum.cs)
   * [Stack](./CSharp/Problems/Stack)
     * [Valid Parentheses](./CSharp/Problems/Stack/ValidParentheses.cs)
+  * [TwoPointers](./CSharp/Problems/TwoPointers)
+    * [Valid Palindrome](./CSharp/Problems/TwoPointers/ValidPalindrome.cs)     
