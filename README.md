@@ -10,6 +10,7 @@ A compilation of Leet code problems for C#
     * [Is Valid Sudoku](./CSharp/Problems/Arrays_and_Hashing/IsValidSudoku.cs)
     * [Products of Array Except Self](./CSharp/Problems/Arrays_and_Hashing/ProductExceptSelf.cs)
     * [Two Sum](./CSharp/Problems/Arrays_and_Hashing/TwoSum.cs)
+    * [Longest Consecutive Sequence](./CSharp/Problems/Arrays_and_Hashing/LongestConsecutiveSequence.cs)
   * [Stack](./CSharp/Problems/Stack)
     * [Valid Parentheses](./CSharp/Problems/Stack/ValidParentheses.cs)
   * [TwoPointers](./CSharp/Problems/TwoPointers)
