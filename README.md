@@ -15,4 +15,6 @@ A compilation of Leet code problems for C#
   * [Stack](./CSharp/Problems/Stack)
     * [Valid Parentheses](./CSharp/Problems/Stack/ValidParentheses.cs)
   * [TwoPointers](./CSharp/Problems/TwoPointers)
-    * [Valid Palindrome](./CSharp/Problems/TwoPointers/ValidPalindrome.cs)     
+    * [Valid Palindrome](./CSharp/Problems/TwoPointers/ValidPalindrome.cs)
+  * [BinarySearch](./CSharp/Problems/BinarySearch)
+    * [Binary Search](./CSharp/Problems/BinarySearch/BinarySearch.cs) 
