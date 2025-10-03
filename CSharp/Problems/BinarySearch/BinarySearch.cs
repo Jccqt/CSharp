@@ -37,7 +37,7 @@ namespace CSharp.Problems.BinarySearch
                 }
                 else if (nums[middle] < target)
                 {
-                    left = middle - 1;
+                    left = middle + 1;
                 } 
                 else
                 {
