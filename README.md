@@ -12,6 +12,7 @@ A compilation of Leet code problems for C#
     * [Two Sum](./CSharp/Problems/Arrays_and_Hashing/TwoSum.cs)
     * [Longest Consecutive Sequence](./CSharp/Problems/Arrays_and_Hashing/LongestConsecutiveSequence.cs)
     * [Group Anagrams](./CSharp/Problems/Arrays_and_Hashing/GroupAnagrams.cs)
+    * [Majority Element](./CSharp/Problems/Arrays_and_Hashing/MajorityElement.cs)
   * [Stack](./CSharp/Problems/Stack)
     * [Valid Parentheses](./CSharp/Problems/Stack/ValidParentheses.cs)
   * [TwoPointers](./CSharp/Problems/TwoPointers)
