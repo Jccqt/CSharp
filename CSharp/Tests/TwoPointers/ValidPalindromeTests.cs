@@ -13,27 +13,39 @@ namespace CSharp.Tests.TwoPointers
         [Fact]
         public void ValidPalindrome()
         {
+            // Arrange
             var solver = new ValidPalindrome();
+
+            // Act
             var result = solver.IsPalindrome("A man, a plan, a canal: Panama");
 
+            // Assert
             Assert.True(result);
         }
 
         [Fact]
         public void InvalidPalindrome()
         {
+            // Arrange
             var solver = new ValidPalindrome();
+
+            // Act
             var result = solver.IsPalindrome("race a car");
 
+            // Assert
             Assert.False(result);
         }
 
         [Fact]
         public void NoTextPalindrome()
         {
+            // Arrange
             var solver = new ValidPalindrome();
+
+            // Act
             var result = solver.IsPalindrome(" ");
 
+            // Assert
             Assert.True(result);
         }
     }

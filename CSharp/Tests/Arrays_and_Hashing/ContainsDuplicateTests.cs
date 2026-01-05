@@ -13,18 +13,26 @@ namespace CSharp.Tests.Arrays_and_Hashing
         [Fact]
         public void HasDuplicate()
         {
+            // Arrange
             var solver = new ContainsDuplicate();
+
+            // Act
             var result = solver.CheckContainsDuplicate(new int[] { 1, 2, 3, 1 });
 
+            // Assert
             Assert.True(result);
         }
 
         [Fact]
         public void HasNoDuplicate()
         {
+            // Arrange
             var solver = new ContainsDuplicate();
+
+            // Act
             var result = solver.CheckContainsDuplicate(new int[] { 1, 2, 3, 4, 5 });
 
+            // Assert
             Assert.False(result);
         }
     }

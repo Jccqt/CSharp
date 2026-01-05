@@ -13,9 +13,13 @@ namespace CSharp.Tests.Arrays_and_Hashing
         [Fact]
         public void GroupAnagram()
         {
+            // Arrange
             var solver = new GroupAnagrams();
+
+            // Act
             var result = solver.GetGroupAnagrams(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" });
 
+            // Assert
             Assert.Equal(3, result.Count);
         }
     }

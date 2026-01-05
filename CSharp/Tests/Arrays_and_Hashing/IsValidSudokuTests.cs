@@ -13,7 +13,10 @@ namespace CSharp.Tests.Arrays_and_Hashing
         [Fact]
         public void ValidSudoku()
         {
+            // Arrange
             var solver = new IsValidSudoku();
+
+            // Act
             var result = solver.CheckIsValidSudoku(new char[][]
                         {
                         new char[] { '5','3','.','.','7','.','.','.','.' },
@@ -27,13 +30,17 @@ namespace CSharp.Tests.Arrays_and_Hashing
                         new char[] { '.','.','.','.','8','.','.','7','9' }
                         });
             
+            // Assert
             Assert.True(result);
         }
 
         [Fact]
         public void InvalidSudoku()
         {
+            // Arrange
             var solver = new IsValidSudoku();
+
+            // Act
             var result = solver.CheckIsValidSudoku(new char[][]
                         {
                         new char[] { '8','3','.','.','7','.','.','.','.' },
@@ -47,6 +54,7 @@ namespace CSharp.Tests.Arrays_and_Hashing
                         new char[] { '.','.','.','.','8','.','.','7','9' }
                         });
 
+            // Assert
             Assert.False(result);
         }
     }

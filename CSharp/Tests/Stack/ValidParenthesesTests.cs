@@ -13,18 +13,26 @@ namespace CSharp.Tests.Stack
         [Fact]
         public void ValidParentheses()
         {
+            // Arrange
             var solver = new ValidParentheses();
+
+            // Act
             var result = solver.IsValidParentheses("([])");
 
+            // Assert
             Assert.True(result);
         }
 
         [Fact]
         public void InvalidParentheses()
         {
+            // Arrange
             var solver = new ValidParentheses();
+
+            // Act
             var result = solver.IsValidParentheses("([)]");
 
+            // Assert
             Assert.False(result);
         }
     }

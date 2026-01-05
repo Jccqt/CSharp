@@ -13,18 +13,26 @@ namespace CSharp.Tests.Arrays_and_Hashing
         [Fact]
         public void ValidAnagram()
         {
+            // Arrange
             var solver = new IsAnagram();
+
+            // Act
             var result = solver.CheckIsAnagram("anagram", "nagaram");
 
+            // Assert
             Assert.True(result);
         }
 
         [Fact]
         public void InvalidAnagram()
         {
+            // Arrange
             var solver = new IsAnagram();
+
+            // Act
             var result = solver.CheckIsAnagram("rat", "car");
 
+            // Assert
             Assert.False(result);
         }
     }

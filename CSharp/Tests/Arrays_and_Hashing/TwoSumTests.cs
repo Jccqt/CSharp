@@ -13,9 +13,13 @@ namespace CSharp.Tests.Arrays_and_Hashing
         [Fact]
         public void SingleCase()
         {
+            // Arrange
             var solver = new TwoSum();
+
+            // Act
             var result = solver.GetTwoSum(new int[] { 2, 7, 11, 15 }, 9);
 
+            // Assert
             Assert.Equal(new int[] { 0, 1 }, result);
         }
 
@@ -24,9 +28,13 @@ namespace CSharp.Tests.Arrays_and_Hashing
         [InlineData(new int[] { 3, 3 }, 6, new int[] { 0, 1 })]
         public void MultipleCases(int[] nums, int target, int[] expected)
         {
+            // Arrange
             var solver = new TwoSum();
+
+            // Act
             var result = solver.GetTwoSum(nums, target);
 
+            // Assert
             Assert.Equal(expected, result);
         }
     }
