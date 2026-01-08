@@ -14,6 +14,7 @@ A compilation of Leet code problems for C#
     * [Group Anagrams](./CSharp/Problems/Arrays_and_Hashing/GroupAnagrams.cs)
     * [Majority Element](./CSharp/Problems/Arrays_and_Hashing/MajorityElement.cs)
     * [Ransom Note](./CSharp/Problems/Arrays_and_Hashing/RansomNote.cs)
+    * [Word Pattern](./CSharp/Problems/Arrays_and_Hashing/WordPattern.cs)
   * [Stack](./CSharp/Problems/Stack)
     * [Valid Parentheses](./CSharp/Problems/Stack/ValidParentheses.cs)
   * [TwoPointers](./CSharp/Problems/TwoPointers)
