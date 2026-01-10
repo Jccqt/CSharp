@@ -17,6 +17,7 @@ A compilation of Leet code problems for C#
     * [Word Pattern](./CSharp/Problems/Arrays_and_Hashing/WordPattern.cs)
     * [Isomorphic Strings](./CSharp/Problems/Arrays_and_Hashing/IsomorphicStrings.cs)
     * [Find the Difference of Two Arrays](./CSharp/Problems/Arrays_and_Hashing/FindTheDifferenceOfTwoArrays.cs)
+    * [First Unique Character in a String](./CSharp/Problems/Arrays_and_Hashing/FirstUniqueCharacterInAString.cs)
   * [Stack](./CSharp/Problems/Stack)
     * [Valid Parentheses](./CSharp/Problems/Stack/ValidParentheses.cs)
   * [TwoPointers](./CSharp/Problems/TwoPointers)
