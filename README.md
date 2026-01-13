@@ -20,6 +20,7 @@ A compilation of Leet code problems for C#
     * [First Unique Character in a String](./CSharp/Problems/Arrays_and_Hashing/FirstUniqueCharacterInAString.cs)
     * [Happy Number](./CSharp/Problems/Arrays_and_Hashing/HappyNumber.cs)
     * [Roman to Integer](./CSharp/Problems/Arrays_and_Hashing/RomanToInteger.cs)
+    * [Contains Duplicate II](./CSharp/Problems/Arrays_and_Hashing/ContainsDuplicatell.cs)
   * [Stack](./CSharp/Problems/Stack)
     * [Valid Parentheses](./CSharp/Problems/Stack/ValidParentheses.cs)
   * [TwoPointers](./CSharp/Problems/TwoPointers)
