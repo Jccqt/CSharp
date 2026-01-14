@@ -21,6 +21,7 @@ A compilation of Leet code problems for C#
     * [Happy Number](./CSharp/Problems/Arrays_and_Hashing/HappyNumber.cs)
     * [Roman to Integer](./CSharp/Problems/Arrays_and_Hashing/RomanToInteger.cs)
     * [Contains Duplicate II](./CSharp/Problems/Arrays_and_Hashing/ContainsDuplicatell.cs)
+    * [Minimum Index Sum of Two Lists](./CSharp/Problems/Arrays_and_Hashing/MinimumIndexSumOfTwoLists.cs)
   * [Stack](./CSharp/Problems/Stack)
     * [Valid Parentheses](./CSharp/Problems/Stack/ValidParentheses.cs)
   * [TwoPointers](./CSharp/Problems/TwoPointers)
