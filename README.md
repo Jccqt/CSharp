@@ -22,6 +22,7 @@ A compilation of Leet code problems for C#
     * [Roman to Integer](./CSharp/Problems/Arrays_and_Hashing/RomanToInteger.cs)
     * [Contains Duplicate II](./CSharp/Problems/Arrays_and_Hashing/ContainsDuplicatell.cs)
     * [Minimum Index Sum of Two Lists](./CSharp/Problems/Arrays_and_Hashing/MinimumIndexSumOfTwoLists.cs)
+    * [Unique Number of Occurrences](./CSharp/Problems/Arrays_and_Hashing/UniqueNumberOfOccurrences.cs)
   * [Stack](./CSharp/Problems/Stack)
     * [Valid Parentheses](./CSharp/Problems/Stack/ValidParentheses.cs)
   * [TwoPointers](./CSharp/Problems/TwoPointers)
