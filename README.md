@@ -28,5 +28,6 @@ A compilation of Leet code problems for C#
   * [TwoPointers](./CSharp/Problems/TwoPointers)
     * [Valid Palindrome](./CSharp/Problems/TwoPointers/ValidPalindrome.cs)
     * [Reverse String](./CSharp/Problems/TwoPointers/ReverseString.cs)
+    * [Two Sum II - Input Array is Sorted](./CSharp/Problems/TwoPointers/TwoSumII-InputArrayIsSorted.cs)
   * [BinarySearch](./CSharp/Problems/BinarySearch)
     * [Binary Search](./CSharp/Problems/BinarySearch/BinarySearch.cs) 
