@@ -32,5 +32,6 @@ A compilation of Leet code problems for C#
     * [Move Zeroes](./CSharp/Problems/TwoPointers/MoveZeroes.cs)
     * [Squares of a Sorted Array](./CShapr/Problems/TwoPointers/SquaresOfASortedArray.cs)
     * [Reverse Only Letters](./CSharp/Problems/TwoPointers/ReverseOnlyLetters.cs)
+    * [Reverse String Prefix](./CSharp/Problems/TwoPointers/ReverseStringPrefix.cs)
   * [BinarySearch](./CSharp/Problems/BinarySearch)
     * [Binary Search](./CSharp/Problems/BinarySearch/BinarySearch.cs) 
