@@ -35,5 +35,6 @@ A compilation of Leet code problems for C#
     * [Reverse String Prefix](./CSharp/Problems/TwoPointers/ReverseStringPrefix.cs)
     * [Merge Sorted Array](./CSharp/Problems/TwoPointers/MergeSortedArray.cs)
     * [Valid Palindrome II](./CSharp/Problems/TwoPointers/ValidPalindromeII.cs)
+    * [Is Subsequence](./CSharp/Problems/TwoPointers/IsSubsequence.cs)
   * [BinarySearch](./CSharp/Problems/BinarySearch)
     * [Binary Search](./CSharp/Problems/BinarySearch/BinarySearch.cs) 
