@@ -38,5 +38,6 @@ A compilation of Leet code problems for C#
     * [Is Subsequence](./CSharp/Problems/TwoPointers/IsSubsequence.cs)
     * [Reverse Vowels of a String](./CSharp/Problems/TwoPointers/ReverseVowelsOfAString.cs)
     * [Sort Array By Parity](./CSharp/Problems/TwoPointers/SortArrayByParity.cs)
+    * [Container With Most Water](./CSharp/Problems/TwoPointers/ContainerWithMostWater.cs)
   * [BinarySearch](./CSharp/Problems/BinarySearch)
     * [Binary Search](./CSharp/Problems/BinarySearch/BinarySearch.cs) 
