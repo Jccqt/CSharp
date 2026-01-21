@@ -36,5 +36,6 @@ A compilation of Leet code problems for C#
     * [Merge Sorted Array](./CSharp/Problems/TwoPointers/MergeSortedArray.cs)
     * [Valid Palindrome II](./CSharp/Problems/TwoPointers/ValidPalindromeII.cs)
     * [Is Subsequence](./CSharp/Problems/TwoPointers/IsSubsequence.cs)
+    * [Reverse Vowels of a String](./CSharp/Problems/TwoPointers/ReverseVowelsOfAString.cs)
   * [BinarySearch](./CSharp/Problems/BinarySearch)
     * [Binary Search](./CSharp/Problems/BinarySearch/BinarySearch.cs) 
