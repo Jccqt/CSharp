@@ -43,3 +43,4 @@ A compilation of Leet code problems for C#
     * [Binary Search](./CSharp/Problems/BinarySearch/BinarySearch.cs)
   * [Sliding Window](./CSharp/Problems/SlidingWindow)
     * [Maximum Average Subarray I](./CSharp/Problems/SlidingWindow/MaximumAverageSubarray.cs) 
+    * [Minimum Recolors To Get K Consecutive Black Blocks](./CSharp/Problems/SlidingWindow/MinimumRecolorsToGetKConsecutiveBlackBlocks.cs)
