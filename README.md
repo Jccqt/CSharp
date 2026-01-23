@@ -40,4 +40,6 @@ A compilation of Leet code problems for C#
     * [Sort Array By Parity](./CSharp/Problems/TwoPointers/SortArrayByParity.cs)
     * [Container With Most Water](./CSharp/Problems/TwoPointers/ContainerWithMostWater.cs)
   * [BinarySearch](./CSharp/Problems/BinarySearch)
-    * [Binary Search](./CSharp/Problems/BinarySearch/BinarySearch.cs) 
+    * [Binary Search](./CSharp/Problems/BinarySearch/BinarySearch.cs)
+  * [Sliding Window](./CSharp/Problems/SlidingWindow)
+    * [Maximum Average Subarray I](./CSharp/Problems/SlidingWindow/MaximumAverageSubarray.cs) 
