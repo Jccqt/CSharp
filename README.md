@@ -45,3 +45,4 @@ A compilation of Leet code problems for C#
     * [Maximum Average Subarray I](./CSharp/Problems/SlidingWindow/MaximumAverageSubarray.cs) 
     * [Minimum Recolors To Get K Consecutive Black Blocks](./CSharp/Problems/SlidingWindow/MinimumRecolorsToGetKConsecutiveBlackBlocks.cs)
     * [Maximum Number of Vowels in a Substring of Given Length](./CSharp/Problems/SlidingWindow/MaximumNumberOfVowelsInASubstringOfGivenLength.cs)
+    * [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./CSharp/Problems/SlidingWindow/NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold.cs)
