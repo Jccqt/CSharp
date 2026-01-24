@@ -46,3 +46,4 @@ A compilation of Leet code problems for C#
     * [Minimum Recolors To Get K Consecutive Black Blocks](./CSharp/Problems/SlidingWindow/MinimumRecolorsToGetKConsecutiveBlackBlocks.cs)
     * [Maximum Number of Vowels in a Substring of Given Length](./CSharp/Problems/SlidingWindow/MaximumNumberOfVowelsInASubstringOfGivenLength.cs)
     * [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./CSharp/Problems/SlidingWindow/NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold.cs)
+    * [Grumpy Bookstore Owner](./CSharp.Problems/SlidingWindow/GrumpyBookstoreOwner.cs)
