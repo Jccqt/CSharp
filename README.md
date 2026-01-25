@@ -39,6 +39,7 @@ A compilation of Leet code problems for C#
     * [Reverse Vowels of a String](./CSharp/Problems/TwoPointers/ReverseVowelsOfAString.cs)
     * [Sort Array By Parity](./CSharp/Problems/TwoPointers/SortArrayByParity.cs)
     * [Container With Most Water](./CSharp/Problems/TwoPointers/ContainerWithMostWater.cs)
+    * [Merge Strings Alternately](./CSharp/Problems/TwoPointers/MergeStringsAlternately.cs)
   * [BinarySearch](./CSharp/Problems/BinarySearch)
     * [Binary Search](./CSharp/Problems/BinarySearch/BinarySearch.cs)
   * [Sliding Window](./CSharp/Problems/SlidingWindow)
@@ -47,3 +48,4 @@ A compilation of Leet code problems for C#
     * [Maximum Number of Vowels in a Substring of Given Length](./CSharp/Problems/SlidingWindow/MaximumNumberOfVowelsInASubstringOfGivenLength.cs)
     * [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./CSharp/Problems/SlidingWindow/NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold.cs)
     * [Grumpy Bookstore Owner](./CSharp.Problems/SlidingWindow/GrumpyBookstoreOwner.cs)
+    
