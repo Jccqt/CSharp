@@ -26,6 +26,7 @@ A compilation of Leet code problems for C#
     * [Concatenation of Array](./CSharp/Problems/Arrays_and_Hashing/ConcatenationOfArray.cs)
     * [Max Consecutive Ones](./CSharp/Problems/Arrays_and_Hashing/MaxConsecutiveOnes.cs)
     * [Kids With the Greatest Number of Candies](./CSharp/Problems/Arrays_and_Hashing/KidsWithTheGreatestNumberOfCandies.cs)
+    * [Can Place Flowers](./CSharp/Problems/Arrays_and_Hashing/CanPlaceFlowers.cs)
   * [Stack](./CSharp/Problems/Stack)
     * [Valid Parentheses](./CSharp/Problems/Stack/ValidParentheses.cs)
   * [TwoPointers](./CSharp/Problems/TwoPointers)
