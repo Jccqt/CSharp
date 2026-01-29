@@ -29,6 +29,7 @@ A compilation of Leet code problems for C#
     * [Can Place Flowers](./CSharp/Problems/Arrays_and_Hashing/CanPlaceFlowers.cs)
     * [Set Mismatch](./CSharp/Problems/Arrays_and_Hashing/SetMismatch.cs)
     * [How Many Numbers Are Smaller Than the Current Number](./CSharp/Problems/Arrays_and_Hashing/HowManyNumbersAreSmallerThanTheCurrentNumber.cs)
+    * [Find All Numbers Disappeared in an Array](./CSharp/Problems/Arrays_and_Hashing/FindAllNumbersDisappearedInAnArray.cs)
   * [Stack](./CSharp/Problems/Stack)
     * [Valid Parentheses](./CSharp/Problems/Stack/ValidParentheses.cs)
   * [TwoPointers](./CSharp/Problems/TwoPointers)
