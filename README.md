@@ -58,6 +58,7 @@ A compilation of Leet code problems for C#
     * [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./CSharp/Problems/SlidingWindow/NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold.cs)
     * [Grumpy Bookstore Owner](./CSharp/Problems/SlidingWindow/GrumpyBookstoreOwner.cs)
     * [Find All Anagrams in a String](./CSharp/Problems/SlidingWindow/FindAllAnagramsInAString.cs)
+    * [Permutation in a String](./CSharp/Problems/SlidingWindow/PermutationInAString.cs)
   * [Math and Geometry](./CSharp/Problems/Math_and_Geometry)
     * [Greatest Common Divisor of Strings](./CSharp/Problems/Math_and_Geometry/GreatestCommonDivisorOfStrings.cs)
     
