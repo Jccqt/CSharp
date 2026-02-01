@@ -33,6 +33,7 @@ A compilation of Leet code problems for C#
     * [Reverse Words in a String](./CSharp/Problems/Arrays_and_Hashing/ReverseWordsInAString.cs)
     * [Intersection of Two Arrays](./CSharp/Problems/Arrays_and_Hashing/IntersectionOfTwoArrays.cs)
     * [Increasing Triplet Subsequence](./CSharp/Problems/Arrays_and_Hashing/IncreasingTripletSubsequence.cs)
+    * [Find the Difference](./CSharp/Problems/Arrays_and_Hashing/FindTheDifference.cs)
   * [Stack](./CSharp/Problems/Stack)
     * [Valid Parentheses](./CSharp/Problems/Stack/ValidParentheses.cs)
   * [TwoPointers](./CSharp/Problems/TwoPointers)
