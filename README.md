@@ -32,6 +32,7 @@ A compilation of Leet code problems for C#
     * [Find All Numbers Disappeared in an Array](./CSharp/Problems/Arrays_and_Hashing/FindAllNumbersDisappearedInAnArray.cs)
     * [Reverse Words in a String](./CSharp/Problems/Arrays_and_Hashing/ReverseWordsInAString.cs)
     * [Intersection of Two Arrays](./CSharp/Problems/Arrays_and_Hashing/IntersectionOfTwoArrays.cs)
+    * [Increasing Triplet Subsequence](./CSharp/Problems/Arrays_and_Hashing/IncreasingTripletSubsequence.cs)
   * [Stack](./CSharp/Problems/Stack)
     * [Valid Parentheses](./CSharp/Problems/Stack/ValidParentheses.cs)
   * [TwoPointers](./CSharp/Problems/TwoPointers)
