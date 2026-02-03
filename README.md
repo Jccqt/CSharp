@@ -36,6 +36,7 @@ A compilation of Leet code problems for C#
     * [Find the Difference](./CSharp/Problems/Arrays_and_Hashing/FindTheDifference.cs)
     * [Single Number](./CSharp/Problems/Arrays_and_Hashing/SingleNumber.cs)
     * [Single Number II](./CSharp/Problems/Arrays_and_Hashing/SingleNumberII.cs)
+    * [Single Number III](./CSharp/Problems/Arrays_and_Hashing/SingleNumberIII.cs)
     * [Permutation Difference Between Two Strings](./CSharp/Problems/Arrays_and_Hashing/PermutationDifferenceBetweenTwoStrings.cs)
   * [Stack](./CSharp/Problems/Stack)
     * [Valid Parentheses](./CSharp/Problems/Stack/ValidParentheses.cs)
