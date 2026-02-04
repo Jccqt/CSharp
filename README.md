@@ -56,6 +56,7 @@ A compilation of Leet code problems for C#
     * [Container With Most Water](./CSharp/Problems/TwoPointers/ContainerWithMostWater.cs)
     * [Merge Strings Alternately](./CSharp/Problems/TwoPointers/MergeStringsAlternately.cs)
     * [Shuffle the Array](./CSharp/Problems/TwoPointers/ShuffleTheArray.cs)
+    * [Max Number of K-Sum Pairs](./CSharp/Problems/TwoPointers/MaxNumberOfK-SumPairs.cs)
   * [BinarySearch](./CSharp/Problems/BinarySearch)
     * [Binary Search](./CSharp/Problems/BinarySearch/BinarySearch.cs)
   * [Sliding Window](./CSharp/Problems/SlidingWindow)
