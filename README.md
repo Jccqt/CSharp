@@ -38,6 +38,7 @@ A compilation of Leet code problems for C#
     * [Single Number II](./CSharp/Problems/Arrays_and_Hashing/SingleNumberII.cs)
     * [Single Number III](./CSharp/Problems/Arrays_and_Hashing/SingleNumberIII.cs)
     * [Permutation Difference Between Two Strings](./CSharp/Problems/Arrays_and_Hashing/PermutationDifferenceBetweenTwoStrings.cs)
+    * [String Compression](./CSharp/Problems/Arrays_and_Hashing/StringCompression.cs)
   * [Stack](./CSharp/Problems/Stack)
     * [Valid Parentheses](./CSharp/Problems/Stack/ValidParentheses.cs)
   * [TwoPointers](./CSharp/Problems/TwoPointers)
