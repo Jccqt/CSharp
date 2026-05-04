@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xunit;
 using CSharp.Problems.SlidingWindow;
+using CSharp.Problems.SlidingWindow.FixSized;
 
 namespace CSharp.Tests.SlidingWindow.FixSized
 {

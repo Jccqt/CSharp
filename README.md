@@ -61,7 +61,7 @@ A compilation of Leet code problems for C#
   * [BinarySearch](./CSharp/Problems/BinarySearch)
     * [Binary Search](./CSharp/Problems/BinarySearch/BinarySearch.cs)
   * [Sliding Window](./CSharp/Problems/SlidingWindow)
-    * [FixSized](./CSharp/Problems/SlidingWindow/FixSized)    
+    * [Fix Sized](./CSharp/Problems/SlidingWindow/FixSized)    
         * [Maximum Average Subarray I](./CSharp/Problems/SlidingWindow/FixSized/MaximumAverageSubarray.cs) 
         * [Minimum Recolors To Get K Consecutive Black Blocks](./CSharp/Problems/SlidingWindow/FixSized/MinimumRecolorsToGetKConsecutiveBlackBlocks.cs)
         * [Maximum Number of Vowels in a Substring of Given Length](./CSharp/Problems/SlidingWindow/FixSized/MaximumNumberOfVowelsInASubstringOfGivenLength.cs)
@@ -69,6 +69,8 @@ A compilation of Leet code problems for C#
         * [Grumpy Bookstore Owner](./CSharp/Problems/SlidingWindow/FixSized/GrumpyBookstoreOwner.cs)
         * [Find All Anagrams in a String](./CSharp/Problems/SlidingWindow/FixSized/FindAllAnagramsInAString.cs)
         * [Permutation in a String](./CSharp/Problems/SlidingWindow/FixSized/PermutationInAString.cs)
+    * [Variable Sized](./CSharp/Problems/SlidingWindow/VariableSized)
+        * [Minimum Size Subarray Sum](./CSharp/Problems/SlidingWindow/VariableSized/MinimumSizeSubarraySum.cs)
   * [Math and Geometry](./CSharp/Problems/Math_and_Geometry)
     * [Greatest Common Divisor of Strings](./CSharp/Problems/Math_and_Geometry/GreatestCommonDivisorOfStrings.cs)
     
