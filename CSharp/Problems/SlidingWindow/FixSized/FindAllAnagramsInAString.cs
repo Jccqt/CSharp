@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharp.Problems.SlidingWindow
+namespace CSharp.Problems.SlidingWindow.FixSized
 {
     // Given two strings s and p, return an array of all the start indices of p's anagrams in s.
     // You may return the answer in any order.

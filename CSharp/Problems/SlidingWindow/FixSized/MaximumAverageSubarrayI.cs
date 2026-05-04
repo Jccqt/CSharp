@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharp.Problems.SlidingWindow
+namespace CSharp.Problems.SlidingWindow.FixSized
 {
     // You are given an integer array nums consisting of n elements, and an integer k.
 

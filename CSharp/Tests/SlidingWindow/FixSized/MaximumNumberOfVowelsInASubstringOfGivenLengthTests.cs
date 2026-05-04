@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Xunit;
 using CSharp.Problems.SlidingWindow;
 
-namespace CSharp.Tests.SlidingWindow
+namespace CSharp.Tests.SlidingWindow.FixSized
 {
     public class MaximumNumberOfVowelsInASubstringOfGivenLengthTests
     {

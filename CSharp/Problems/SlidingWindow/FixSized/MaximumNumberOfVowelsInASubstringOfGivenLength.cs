@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharp.Problems.SlidingWindow
+namespace CSharp.Problems.SlidingWindow.FixSized
 {
     // Given a string s and an integer k, return the number of vowel letters in any substring of s with length k.
 
