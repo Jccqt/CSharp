@@ -72,6 +72,7 @@ A compilation of Leet code problems for C#
     * [Variable Sized](./CSharp/Problems/SlidingWindow/VariableSized)
         * [Minimum Size Subarray Sum](./CSharp/Problems/SlidingWindow/VariableSized/MinimumSizeSubarraySum.cs)
         * [Longest Substring Without Repeating Characters](./CSharp/Problems/SlidingWindow/VariableSized/LongestSubstringWithoutRepeatingCharacters.cs)
+        * [Subarray Product Less Than K](./CSharp/Problems/SlidingWindow/VariableSized/SubarrayProductLessThanK.cs)
   * [Math and Geometry](./CSharp/Problems/Math_and_Geometry)
     * [Greatest Common Divisor of Strings](./CSharp/Problems/Math_and_Geometry/GreatestCommonDivisorOfStrings.cs)
     
