@@ -75,6 +75,7 @@ A compilation of Leet code problems for C#
         * [Subarray Product Less Than K](./CSharp/Problems/SlidingWindow/VariableSized/SubarrayProductLessThanK.cs)
         * [Max Consecutive Ones III](./CSharp/Problems/SlidingWindow/VariableSized/MaxConsecutiveOnes3.cs)
         * [Fruit Into Baskets](./CSharp/Problems/SlidingWindow/VariableSized/FruitIntoBaskets.cs)
+        * [Longest Continuous Increasing Subsequence](./CSharp/Problems/SlidingWindow/VariableSized/LongestContinuousIncreasingSubsequence.cs)
   * [Math and Geometry](./CSharp/Problems/Math_and_Geometry)
     * [Greatest Common Divisor of Strings](./CSharp/Problems/Math_and_Geometry/GreatestCommonDivisorOfStrings.cs)
     
