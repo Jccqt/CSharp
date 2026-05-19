@@ -77,6 +77,7 @@ A compilation of Leet code problems for C#
         * [Fruit Into Baskets](./CSharp/Problems/SlidingWindow/VariableSized/FruitIntoBaskets.cs)
         * [Longest Continuous Increasing Subsequence](./CSharp/Problems/SlidingWindow/VariableSized/LongestContinuousIncreasingSubsequence.cs)
         * [Longest Repeating Character Replacement](./CSharp/Problems/SlidingWindow/VariableSized/LongestRepeatingCharacterReplacement.cs)
+        * [Get Equal Substrings Within Budget](./CSharp/Problems/SlidingWindow/VariableSized/GetEqualSubstringsWithinBudget.cs)
   * [Math and Geometry](./CSharp/Problems/Math_and_Geometry)
     * [Greatest Common Divisor of Strings](./CSharp/Problems/Math_and_Geometry/GreatestCommonDivisorOfStrings.cs)
     
